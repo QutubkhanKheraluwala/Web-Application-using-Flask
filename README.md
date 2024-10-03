@@ -28,4 +28,4 @@ This project is created by Qutubkhan while learning from the Flask Mega-Tutorial
 
 ## GitHub Repository
 
-Find the project on GitHub: [Flask Project](https://github.com/QutubkhanKheraluwala/flask_project)
+Find the project on GitHub: [Flask Project](https://github.com/QutubkhanKheraluwala/flask_project/tree/Chp-7)
