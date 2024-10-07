@@ -88,3 +88,7 @@ sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed
 (Background on this error at: https://sqlalche.me/e/20/gkpj)
 2024-10-03 16:00:08,435 INFO: Flask App Startup [in C:\Users\Kheraluwala\PycharmProjects\flask_project\app\__init__.py:44]
 2024-10-03 16:10:59,071 INFO: Flask App Startup [in C:\Users\Kheraluwala\PycharmProjects\flask_project\app\__init__.py:44]
+2024-10-04 12:20:04,313 INFO: Flask App Startup [in C:\Users\Kheraluwala\PycharmProjects\flask_project\app\__init__.py:44]
+2024-10-04 12:20:40,683 INFO: Flask App Startup [in C:\Users\Kheraluwala\PycharmProjects\flask_project\app\__init__.py:44]
+2024-10-04 12:21:34,088 INFO: Flask App Startup [in C:\Users\Kheraluwala\PycharmProjects\flask_project\app\__init__.py:44]
+2024-10-04 12:24:25,439 INFO: Flask App Startup [in C:\Users\Kheraluwala\PycharmProjects\flask_project\app\__init__.py:44]
